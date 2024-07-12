@@ -1,4 +1,4 @@
-Hello World!, I'm Amanuel 👋
+Hello World! I'm Amanuel 👋
 
 Welcome to my GitHub profile! 
 ## Get in Touch
